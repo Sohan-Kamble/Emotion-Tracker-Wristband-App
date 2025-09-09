@@ -231,9 +231,7 @@ This project is licensed under the MIT License. See LICENSE file for details.
 ## 📞 Support
 
 For technical support or questions about the emotion tracking system:
-- 📧 Email: support@emotiontracker.dev
-- 📖 Documentation: [docs.emotiontracker.dev](https://docs.emotiontracker.dev)
-- 🐛 Issues: [GitHub Issues](https://github.com/emotion-tracker/dashboard/issues)
+- 📧 Email: sohan.kamble24@gmail.com
 
 ---
 
